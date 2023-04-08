@@ -1,3 +1,3 @@
-# Blind-Search-Techniques-AI
+# Blind-Search-AI
 Implementation of Blind Search Techniques Using Python
 
